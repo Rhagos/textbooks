@@ -1,5 +1,5 @@
 Textbooks for various classes at UC Berkeley
 
-Currently have:
--CS61C
--CS170
+Currently have:\n
+-CS61C\n
+-CS170\n
